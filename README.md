@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/bajrangilalb" target="blank"><img src="https://img.shields.io/twitter/follow/bajrangilalb?logo=twitter&style=for-the-badge" alt="bajrangilalb" /></a> </p>
 
-- 🔭 I’m currently working on [ProH2R](https://proh2r.com/)
 
 - 🌱 I’m currently learning **DSA, System Design**
 
